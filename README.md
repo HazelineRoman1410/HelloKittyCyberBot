@@ -134,5 +134,7 @@ In your video, explain:
 
 The repository includes a GitHub Actions workflow file that restores and builds the project on every push.
 
-Added ASCII art and console styling
-Implemented voice greeting using WAV file
+-Added ASCII art and console styling
+-Implemented voice greeting using WAV file
+-Added personalised greeting and name input
+
