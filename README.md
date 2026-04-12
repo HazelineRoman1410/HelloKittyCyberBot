@@ -137,4 +137,8 @@ The repository includes a GitHub Actions workflow file that restores and builds 
 -Added ASCII art and console styling
 -Implemented voice greeting using WAV file
 -Added personalised greeting and name input
-
+-Implemented cybersecurity responses
+-Added input validation and fallback response
+-Refactored code into classes and methods
+-Added README setup instructions
+-Added GitHub Actions workflow
