@@ -130,8 +130,9 @@ In your video, explain:
 - exit
 
 ---
-## Update: Improved README formatting
-Test commit change 1
 ## CI Workflow
+
 The repository includes a GitHub Actions workflow file that restores and builds the project on every push.
+
+Test commit change 1
 
