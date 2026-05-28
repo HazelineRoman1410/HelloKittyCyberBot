@@ -142,7 +142,7 @@ The repository includes a GitHub Actions workflow file that restores and builds 
 -Refactored code into classes and methods
 -Added README setup instructions
 -Added GitHub Actions workflow
------
+
 ##  Part 2 Features
 
 -implemented sentiment detection and memory recall
